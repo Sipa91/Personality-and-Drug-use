@@ -32,7 +32,7 @@ python train.py
 In order to test that predict works on a test set you created run:
 
 ```bash
-python predict.py models/linear_regression_model.sav data/X_test.csv data/y_test.csv
+python predict.py models/rf_model.sav data/X_test.csv data/y_test.csv
 ```
 
 ## Limitations

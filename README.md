@@ -30,6 +30,9 @@ conda install -c anaconda xlrd
 
 
 # Modeling
+Different models used for prediction can be found here: https://github.com/kevintomas1995/Personality-and-Drug-use/tree/main/Models
+Python scripts for prediction can be found here: https://github.com/kevintomas1995/Personality-and-Drug-use/tree/main/Pipeline
+
 
 # Presentation
 **Link:** https://docs.google.com/presentation/d/1dE69c3ehc-m2sE0KUZjfO3SgjL6cs18frM0a1b6vVts/edit#slide=id.ga6e2acbddf_0_176
